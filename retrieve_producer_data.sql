@@ -1,5 +1,5 @@
 --=========================================================
---Ad hoc report regarding Producer performance.
+--Ad hoc report request involving Producer data.
 --=========================================================
 
 
